@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Section_2/Hiekkalaatikko/Hiekkalaatikko.iml" filepath="$PROJECT_DIR$/Section_2/Hiekkalaatikko/Hiekkalaatikko.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section_2/_05._A_Hello_World_Program/_05._A_Hello_World_Program.iml" filepath="$PROJECT_DIR$/Section_2/_05._A_Hello_World_Program/_05._A_Hello_World_Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section_2/_06._Using_Variables/_06._Using_Variables.iml" filepath="$PROJECT_DIR$/Section_2/_06._Using_Variables/_06._Using_Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section_2/_07._Strings_-_Working_With_Text/_07._Strings_-_Working_With_Text.iml" filepath="$PROJECT_DIR$/Section_2/_07._Strings_-_Working_With_Text/_07._Strings_-_Working_With_Text.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section_2/_08._While_Loops/_08._While_Loops.iml" filepath="$PROJECT_DIR$/Section_2/_08._While_Loops/_08._While_Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section_2/_09._For_Loops/_09._For_Loops.iml" filepath="$PROJECT_DIR$/Section_2/_09._For_Loops/_09._For_Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section_2/_10.__If_/_10.__If_.iml" filepath="$PROJECT_DIR$/Section_2/_10.__If_/_10.__If_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section_2/_11._Getting_User_Input/_11._Getting_User_Input.iml" filepath="$PROJECT_DIR$/Section_2/_11._Getting_User_Input/_11._Getting_User_Input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section_2/_12._Do_..._While/_12._Do_..._While.iml" filepath="$PROJECT_DIR$/Section_2/_12._Do_..._While/_12._Do_..._While.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section_2/_13._Switch/_13._Switch.iml" filepath="$PROJECT_DIR$/Section_2/_13._Switch/_13._Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section_2/_14._Arrays/_14._Arrays.iml" filepath="$PROJECT_DIR$/Section_2/_14._Arrays/_14._Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section_2/_15._Arrays_of_Strings/_15._Arrays_of_Strings.iml" filepath="$PROJECT_DIR$/Section_2/_15._Arrays_of_Strings/_15._Arrays_of_Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section_2/_16._Multi-Dimensional_Arrays/_16._Multi-Dimensional_Arrays.iml" filepath="$PROJECT_DIR$/Section_2/_16._Multi-Dimensional_Arrays/_16._Multi-Dimensional_Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section_2/_17._Classes_and_Objects/_17._Classes_and_Objects.iml" filepath="$PROJECT_DIR$/Section_2/_17._Classes_and_Objects/_17._Classes_and_Objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section_2/_18._Methods/_18._Methods.iml" filepath="$PROJECT_DIR$/Section_2/_18._Methods/_18._Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section_2/_19._Getters_and_Return_Values/_19._Getters_and_Return_Values.iml" filepath="$PROJECT_DIR$/Section_2/_19._Getters_and_Return_Values/_19._Getters_and_Return_Values.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section_2/_20._Method_Parameters/_20._Method_Parameters.iml" filepath="$PROJECT_DIR$/Section_2/_20._Method_Parameters/_20._Method_Parameters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section_2/_21._Setters_and__this_/_21._Setters_and__this_.iml" filepath="$PROJECT_DIR$/Section_2/_21._Setters_and__this_/_21._Setters_and__this_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section_2/_22._Constructors/_22._Constructors.iml" filepath="$PROJECT_DIR$/Section_2/_22._Constructors/_22._Constructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section_2/_23._Static_-and Final-/_23._Static_-and Final-.iml" filepath="$PROJECT_DIR$/Section_2/_23._Static_-and Final-/_23._Static_-and Final-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-tutorial.iml" filepath="$PROJECT_DIR$/.idea/java-tutorial.iml" />
+    </modules>
+  </component>
+</project>
