@@ -11,7 +11,7 @@ class Juttu {
         id = laske;
         laske++;
     }
-
+//
     static void sano() {
         System.out.println(otsikko);
     }
