@@ -1,6 +1,7 @@
+// 27. Packages
+
 import com.andymclang.ocean.Fish;
 
-// 27. Packages
 public class App {
     public static void main(String[] args) {
         Fish kala = new Fish();
