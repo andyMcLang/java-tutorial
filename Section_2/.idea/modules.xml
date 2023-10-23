@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hiekkalaatikko/Hiekkalaatikko.iml" filepath="$PROJECT_DIR$/Hiekkalaatikko/Hiekkalaatikko.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Section_2.iml" filepath="$PROJECT_DIR$/.idea/Section_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_05._A_Hello_World_Program/_05._A_Hello_World_Program.iml" filepath="$PROJECT_DIR$/_05._A_Hello_World_Program/_05._A_Hello_World_Program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_06._Using_Variables/_06._Using_Variables.iml" filepath="$PROJECT_DIR$/_06._Using_Variables/_06._Using_Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_07._Strings_-_Working_With_Text/_07._Strings_-_Working_With_Text.iml" filepath="$PROJECT_DIR$/_07._Strings_-_Working_With_Text/_07._Strings_-_Working_With_Text.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_08._While_Loops/_08._While_Loops.iml" filepath="$PROJECT_DIR$/_08._While_Loops/_08._While_Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_09._For_Loops/_09._For_Loops.iml" filepath="$PROJECT_DIR$/_09._For_Loops/_09._For_Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_10.__If_/_10.__If_.iml" filepath="$PROJECT_DIR$/_10.__If_/_10.__If_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_11._Getting_User_Input/_11._Getting_User_Input.iml" filepath="$PROJECT_DIR$/_11._Getting_User_Input/_11._Getting_User_Input.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_12._Do_..._While/_12._Do_..._While.iml" filepath="$PROJECT_DIR$/_12._Do_..._While/_12._Do_..._While.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_13._Switch/_13._Switch.iml" filepath="$PROJECT_DIR$/_13._Switch/_13._Switch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_14._Arrays/_14._Arrays.iml" filepath="$PROJECT_DIR$/_14._Arrays/_14._Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_15._Arrays_of_Strings/_15._Arrays_of_Strings.iml" filepath="$PROJECT_DIR$/_15._Arrays_of_Strings/_15._Arrays_of_Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_16._Multi-Dimensional_Arrays/_16._Multi-Dimensional_Arrays.iml" filepath="$PROJECT_DIR$/_16._Multi-Dimensional_Arrays/_16._Multi-Dimensional_Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_17._Classes_and_Objects/_17._Classes_and_Objects.iml" filepath="$PROJECT_DIR$/_17._Classes_and_Objects/_17._Classes_and_Objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_18._Methods/_18._Methods.iml" filepath="$PROJECT_DIR$/_18._Methods/_18._Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_19._Getters_and_Return_Values/_19._Getters_and_Return_Values.iml" filepath="$PROJECT_DIR$/_19._Getters_and_Return_Values/_19._Getters_and_Return_Values.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_20._Method_Parameters/_20._Method_Parameters.iml" filepath="$PROJECT_DIR$/_20._Method_Parameters/_20._Method_Parameters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_21._Setters_and__this_/_21._Setters_and__this_.iml" filepath="$PROJECT_DIR$/_21._Setters_and__this_/_21._Setters_and__this_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_22._Constructors/_22._Constructors.iml" filepath="$PROJECT_DIR$/_22._Constructors/_22._Constructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_23._Static_-and Final-/_23._Static_-and Final-.iml" filepath="$PROJECT_DIR$/_23._Static_-and Final-/_23._Static_-and Final-.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_24._String_Builder_and_String_Formatting/_24._String_Builder_and_String_Formatting.iml" filepath="$PROJECT_DIR$/_24._String_Builder_and_String_Formatting/_24._String_Builder_and_String_Formatting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_25._The_toString_Method/_25._The_toString_Method.iml" filepath="$PROJECT_DIR$/_25._The_toString_Method/_25._The_toString_Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_26._Inheritance/_26._Inheritance.iml" filepath="$PROJECT_DIR$/_26._Inheritance/_26._Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_27._Packages/_27._Packages.iml" filepath="$PROJECT_DIR$/_27._Packages/_27._Packages.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_28._Interfaces/_28._Interfaces.iml" filepath="$PROJECT_DIR$/_28._Interfaces/_28._Interfaces.iml" />
+    </modules>
+  </component>
+</project>
